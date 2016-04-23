@@ -10,4 +10,4 @@ https://almsaeedstudio.com/preview
 
 Visit my linkedin 
 
-<a href="https://br.linkedin.com/in/fabiobritopinto"  target="_blank">Fábio Brito Pinto</a>
+<a href="https://br.linkedin.com/in/fabiobritopinto">Fábio Brito Pinto</a>
