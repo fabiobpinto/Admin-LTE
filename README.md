@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ModeloBase 
 =======
 # Admin-LTE
@@ -9,4 +8,6 @@ With JSF 2 and Primefaces
 Template make by:
 https://almsaeedstudio.com/preview
 
->>>>>>> origin/master
+Visit my linkedin 
+
+<a href="https://br.linkedin.com/in/fabiobritopinto"  target="_blank">Fábio Brito Pinto</a>
