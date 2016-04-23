@@ -1,5 +1,3 @@
-# ModeloBase 
-=======
 # Admin-LTE
 Admin theme LTE
 
